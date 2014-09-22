@@ -89,6 +89,7 @@ set mouse=nv            " Enable mouse usage, but not in insert mode
 " abbreviate Wall {-# OPTIONS_GHC -Wall #-}
 " abbreviate LANGUAGE {-# LANGUAGE #-}
 abbreviate jpln System.out.println();
+abbreviate jprf System.out.printf();
 abbreviate jmain public static void main(String [] args) {
 abbreviate jhead public class {
 abbreviate phead #!/usr/bin/perl
